@@ -3,7 +3,7 @@
   }
   
   .home-header h2 {
-    color: #0080ff;
+    color: #fff;
     font-size: 2rem;
   }
   
@@ -15,7 +15,14 @@
   
   .home-header h1 span {
     color: #b0c4de;
-    
+  }
+
+  .home-header h1 .home-header-blog {
+    color: #c634f6;
+  }
+
+  .home-header h1 .home-header-space {
+    color: #0f52ba;
   }
   
   .home-header p {

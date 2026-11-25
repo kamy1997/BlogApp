@@ -64,6 +64,11 @@
     object-fit: cover;
     margin-right: 0.5rem;
   }
+
+  .blogItem-author h6 {
+    color: #fff;
+    font-size: 14px;
+  }
   
   .blogItem-author p {
     font-size: 0.6rem;
